@@ -1,0 +1,17 @@
+Agorago
+Copyright 2026 southglory
+
+This product is a derivative work of Terax
+(https://github.com/crynta/terax-ai), Copyright Crynta,
+licensed under the Apache License, Version 2.0.
+
+Portions of this software were originally developed as part of Terax
+and are used under the terms of the Apache License, Version 2.0.
+
+The wire protocol of the remote agent (src-tauri/crates/agorago-proto) adapts
+the operation set and the length-prefix-plus-MessagePack framing of distant
+(https://github.com/chipsenkbeil/distant), Copyright Chip Senkbeil, dual
+licensed under the MIT License and the Apache License, Version 2.0, and used
+here under the terms of the Apache License, Version 2.0. Its semver-range
+compatibility policy and its chained compression and cipher layer are
+deliberately not taken; see docs/adr/0005-remote-agent-binary.md section 7.
