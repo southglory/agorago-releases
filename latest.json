@@ -1,0 +1,35 @@
+{
+  "version": "0.13.140",
+  "notes": "See the assets to download and install. Auto-update is built in.",
+  "pub_date": "2026-11-09T04:51:45.000Z",
+  "platforms": {
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3ppQjBHdFRZTjVhMlR5emdEMEd1eHJ1WHBtdS9MSCtkeGRQK0xtUGFQSFJmZkU5WWhaekkveXZkNVk5U3pkZ1YzMlBUU1d4TTZPMDVST2RVZzhSWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5NDA3CWZpbGU6QWdvcmFnb18wLjEzLjE0MF9hbWQ2NC5BcHBJbWFnZQozRzRtUTkxOXZQamUxb3dKb20wVzdsb2pjUTZLeVRqMStzLzdscWgwTWkwdjhJUzV1U1VZKy85bXFFZEF5aDZaVWQzcmRWTDIva3BxUUc2ay9Zb2dEdz09Cg==",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago_0.13.140_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3ppQjBHdFRZTjVhMlR5emdEMEd1eHJ1WHBtdS9MSCtkeGRQK0xtUGFQSFJmZkU5WWhaekkveXZkNVk5U3pkZ1YzMlBUU1d4TTZPMDVST2RVZzhSWXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5NDA3CWZpbGU6QWdvcmFnb18wLjEzLjE0MF9hbWQ2NC5BcHBJbWFnZQozRzRtUTkxOXZQamUxb3dKb20wVzdsb2pjUTZLeVRqMStzLzdscWgwTWkwdjhJUzV1U1VZKy85bXFFZEF5aDZaVWQzcmRWTDIva3BxUUc2ay9Zb2dEdz09Cg==",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago_0.13.140_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3g3VHNuUDlRZFpFUkhEZE1uMzg3UDlBa2xUWUwyV0xKcTRpQktBbGRBQ3ZHUlpJNFBKd2IvNGJWQzVtOHhSNUwvVSttb216ZEFVajY5aDhIUk5rQ0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5Mzk2CWZpbGU6QWdvcmFnb18wLjEzLjE0MF9hbWQ2NC5kZWIKUGkwb1JSeWxvRXJHam5QQ2daRDJacE82UlpabWVrZHo2OFlQWGcwNHpZbnJuNFRmQjZPcVU5Nzc2M1ZBY3hLVTRjdVQ1SUhCYXF4STNCWWliZkpJQnc9PQo=",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago_0.13.140_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzZtMEpBWXp4bVFmSEN4eFAyWVB1eTNIWVdnamo2RmRTT2hXS2pISWpZNkVqbFdOak56dkl2Y0ltOGFiSHpWREl3ZnEvVW5HdnA1M2Rrem1VMHFOZXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5Mzk2CWZpbGU6QWdvcmFnby0wLjEzLjE0MC0xLng4Nl82NC5ycG0KQ2F3WHNHdFdYdCtSSmtWdnFRN0UwdGp6V3Rtd2pMMHluZm81U0pwUXk1YS9QMVRRMUkralBBYVB5MytndFY2WXpyRy9IU0hsdDdic0RDb01zSXFyREE9PQo=",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago-0.13.140-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3lEYk9RWjBlamk4dnhXakRMY3RxLytNSGdvV29UUUxmMHNxdW5uWnNkeXdzcHp0TkV0ejJQWkN2bHoxeUVqVSswenZWZk5LeFpyQ3k0aU1XNUlCVFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5OTAzCWZpbGU6QWdvcmFnb18wLjEzLjE0MF94NjRfZW4tVVMubXNpCitOQU5jcFcrRUdvdFZUL3kvQnhFRjJNTWd4S29HSnRTck1JUmlvOTRQaEd2aWpNQU54K3k3L0ZrTm1xbHV6c1B1eTFBUGVCcGNKWWlLM0plcHlCSkRRPT0K",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago_0.13.140_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3lEYk9RWjBlamk4dnhXakRMY3RxLytNSGdvV29UUUxmMHNxdW5uWnNkeXdzcHp0TkV0ejJQWkN2bHoxeUVqVSswenZWZk5LeFpyQ3k0aU1XNUlCVFFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5OTAzCWZpbGU6QWdvcmFnb18wLjEzLjE0MF94NjRfZW4tVVMubXNpCitOQU5jcFcrRUdvdFZUL3kvQnhFRjJNTWd4S29HSnRTck1JUmlvOTRQaEd2aWpNQU54K3k3L0ZrTm1xbHV6c1B1eTFBUGVCcGNKWWlLM0plcHlCSkRRPT0K",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago_0.13.140_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzdPc1F3QzFaTjFmVDZqSWF5VUlBNGpYTUtiREYzbmR5K3h6WFRlSlplbmxKUWZYUjlaSVZtSVJBN2NQODFCU1RDSHFSalFWcEg2dWJyZVc0Z2pFWVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MTk5OTAyCWZpbGU6QWdvcmFnb18wLjEzLjE0MF94NjQtc2V0dXAuZXhlClhOTTd4SE9XZlhQYktZTklGS3IvUEJpeHZSR25pOGdnOGttQVN5ZmZNVmR0KzhEZFVzNjdrYktsZ3JkaGc0Qk9oK0NUL0Y0Mmt2K3NUR3F4b3JWakJBPT0K",
+      "url": "https://github.com/southglory/agorago-releases/releases/download/v0.13.140/Agorago_0.13.140_x64-setup.exe"
+    }
+  }
+}
