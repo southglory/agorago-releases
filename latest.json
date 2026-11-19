@@ -1,35 +1,35 @@
 {
-  "version": "0.13.181",
+  "version": "0.13.182",
   "notes": "See the assets to download and install. Auto-update is built in.",
-  "pub_date": "2026-11-19T05:38:31.000Z",
+  "pub_date": "2026-11-19T06:30:53.000Z",
   "platforms": {
     "linux-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3pLS3oxdFRmVXh6dTZ6U2FTTTRXYkpkSDRsOW4yMHpsK2JJdkpJbEJxK3hYcTcvUmxLejR1SUJlR09yVU5LSUg0c05hRGg0L1ZqL2loRlJLdEpQalE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2MDcyCWZpbGU6QWdvcmFnb18wLjEzLjE4MV9hbWQ2NC5BcHBJbWFnZQpucDVrcWhlTXU3cjBsUTU0MlNWZ3BpRjJtOTFaZkorNHp5UXNBNWN1anR2NjVmMVVmQ1lpTVlmbEdRT3FqTDlyQkJ5aUVXc2RtUjAvWXVEMkIyeUdCUT09Cg==",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397780"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYytvN3R0bGpxcnRRTExKTld6VFMyeFlpU3l4Vm0rKytzL2hOWm1BbzdWUlRDb2JQNmsvS1VJOE5nUERCcEFmcDVhSEpEZnlpN1Bha1BHZHNkS3BWTmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5MjQ5CWZpbGU6QWdvcmFnb18wLjEzLjE4Ml9hbWQ2NC5BcHBJbWFnZQp6RC96ZmxNa0xWVmpzbDhSc3FqUWNYU2FxUjlGYW5uZVZjbWp2cUgreEswSDZ1VFNhSzVEd3laY0gxTkoza2xPTTJFaHNBTHJLVXFVZWlUajlmeDRCUT09Cg==",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538052"
     },
     "linux-x86_64-appimage": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3pLS3oxdFRmVXh6dTZ6U2FTTTRXYkpkSDRsOW4yMHpsK2JJdkpJbEJxK3hYcTcvUmxLejR1SUJlR09yVU5LSUg0c05hRGg0L1ZqL2loRlJLdEpQalE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2MDcyCWZpbGU6QWdvcmFnb18wLjEzLjE4MV9hbWQ2NC5BcHBJbWFnZQpucDVrcWhlTXU3cjBsUTU0MlNWZ3BpRjJtOTFaZkorNHp5UXNBNWN1anR2NjVmMVVmQ1lpTVlmbEdRT3FqTDlyQkJ5aUVXc2RtUjAvWXVEMkIyeUdCUT09Cg==",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397780"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYytvN3R0bGpxcnRRTExKTld6VFMyeFlpU3l4Vm0rKytzL2hOWm1BbzdWUlRDb2JQNmsvS1VJOE5nUERCcEFmcDVhSEpEZnlpN1Bha1BHZHNkS3BWTmdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5MjQ5CWZpbGU6QWdvcmFnb18wLjEzLjE4Ml9hbWQ2NC5BcHBJbWFnZQp6RC96ZmxNa0xWVmpzbDhSc3FqUWNYU2FxUjlGYW5uZVZjbWp2cUgreEswSDZ1VFNhSzVEd3laY0gxTkoza2xPTTJFaHNBTHJLVXFVZWlUajlmeDRCUT09Cg==",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538052"
     },
     "linux-x86_64-deb": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzQ4aVZrMXZobDg4MWxFNGhLRlczT2hWelFBWkF1dTFpOGFZOGZ2THhWU0JPSmpUZ3YxeWIxTlQ0c3JQb2tBcXg0aDBsYjFlU1UwRWhaU2gyYkcxL0FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2MDYyCWZpbGU6QWdvcmFnb18wLjEzLjE4MV9hbWQ2NC5kZWIKRmRjNzlZQW1NNmgxTmlGSE44T2w3VXFncGwxM3l4alQwbUY3ZjZ6Mlg0MU9xQndqNFdhamlQaHZwYnU3OWNmM0NRTENvYVMzMHJzb0dmcEF5Sk9KQVE9PQo=",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397785"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzhselhFUTBNOU1qM25sRkpVa3NpSWtpWkVaNi9KKytJNU1FSnY0N0srMnNrdDdGVDhVbVhPWGpFZ1VkV2xha01RUmw2VGFsVXpTZTdvTGpIemdhYUFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5MjIzCWZpbGU6QWdvcmFnb18wLjEzLjE4Ml9hbWQ2NC5kZWIKbE1MeEFLeWU3aDZBeTZUK3BJVm5iczNXQy8yeHNOSVVBT2pkWmtkeXE1WmRxUWtiQUhsWlVTc3E3S3AyVytBZVF3WTdXYzVuZjBNUytBdFRRS1IwQWc9PQo=",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538049"
     },
     "linux-x86_64-rpm": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzNjSWVMWkhseVZEaXRUblZCa0FUMElvNnh0SDk2eFJvM0FZRElaLzV3OEtaSFAxVk1RclZWcjNWL3VkVEQxSjdPMVZTQ1Rpb2pBNys1ejgrdHBJVHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2MDYyCWZpbGU6QWdvcmFnby0wLjEzLjE4MS0xLng4Nl82NC5ycG0KSDEyM29EVWY2enJRdENqZlZWMFpZRmJIaFEzWHV2czZ0UXF3MVQxODk4RVlVdyt3bVowb2ZROEZVOFptdUp0TVo4S0FzRTZpTjNUVnFDb0pGdTZ0Q2c9PQo=",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397782"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzF3NWxIcG9iNE5HdFpXSXZyRXlmTHlEMUVVRVdBV1lZcWhpVXB5ZGUwa0lhS2pDeXdpK0h1Y0haMmY3SDk0UWE5LzEyZW8vclhhRzJWQjVwZlFKRmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5MjIzCWZpbGU6QWdvcmFnby0wLjEzLjE4Mi0xLng4Nl82NC5ycG0KTGRXOTlVS2RLSXdkN0xPSmRnamptZTk0RUQvd2x6T0ZlTDJ5UnJWK21MWjBxSlVVY0RpZUozMXFkOUxMUWhqSy84QWZJckNQUXp1V2pPcHdkNFBGQ0E9PQo=",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538046"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3o5QnNNaDRyTnFKOWFZWEk3ZjJVRXQ4N1BQZVhDUzJERVZQQVlFTjFYR0JBelMrSkhxR2p1bjNVMllHalZCZXhNUkJnQno4RFJzbFZrNnlOb0tEN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2NzEwCWZpbGU6QWdvcmFnb18wLjEzLjE4MV94NjRfZW4tVVMubXNpCnM0UjYzbjNPUlQ3M1NWOUtIK0ROR00ydzFWRks1clJmY25nbXEyemNqZTRIOHR6WVlpQ2xwejRaejROblRoYkJkWDB6SnpaVC8zRkNzLzNvREZBSERBPT0K",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397823"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3dEbVAybW9TVEsyaVZQZG1qTStVbmtFTklCQm84K1JmWE9yU1AxRWczMjA5NEhqWEVlUXA5enRRVm43WG1NRnFWY3poZkxGRVNib2Z2OGVvckhUQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5ODQ5CWZpbGU6QWdvcmFnb18wLjEzLjE4Ml94NjRfZW4tVVMubXNpCnkvWVNHaS91S3Nlck1RdmI5RnVNUUZOczdVOUdXcnhCTGRuY0NjQ3duQlZqRHc1dzFPaVltdzJVTkRYQTlOV04rVXhrWnhDSytGeVZITUZETGdtL0JBPT0K",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538084"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3o5QnNNaDRyTnFKOWFZWEk3ZjJVRXQ4N1BQZVhDUzJERVZQQVlFTjFYR0JBelMrSkhxR2p1bjNVMllHalZCZXhNUkJnQno4RFJzbFZrNnlOb0tEN3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2NzEwCWZpbGU6QWdvcmFnb18wLjEzLjE4MV94NjRfZW4tVVMubXNpCnM0UjYzbjNPUlQ3M1NWOUtIK0ROR00ydzFWRks1clJmY25nbXEyemNqZTRIOHR6WVlpQ2xwejRaejROblRoYkJkWDB6SnpaVC8zRkNzLzNvREZBSERBPT0K",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397823"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLY3dEbVAybW9TVEsyaVZQZG1qTStVbmtFTklCQm84K1JmWE9yU1AxRWczMjA5NEhqWEVlUXA5enRRVm43WG1NRnFWY3poZkxGRVNib2Z2OGVvckhUQ3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5ODQ5CWZpbGU6QWdvcmFnb18wLjEzLjE4Ml94NjRfZW4tVVMubXNpCnkvWVNHaS91S3Nlck1RdmI5RnVNUUZOczdVOUdXcnhCTGRuY0NjQ3duQlZqRHc1dzFPaVltdzJVTkRYQTlOV04rVXhrWnhDSytGeVZITUZETGdtL0JBPT0K",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538084"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzBOV0RqdDIrOTFnNUV0T29lZ0RldWZpaStIbVh5YVVwNkxNSXNSR1VlNjJFS2ZteStNbVBCZUhKTzZObFdYTFYyN2FtRVNaa2Y5Rmt6VFBaNTZMTFE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY2NzA4CWZpbGU6QWdvcmFnb18wLjEzLjE4MV94NjQtc2V0dXAuZXhlCk5ocUtLRHVoS3lZY2U1cDA2SmpTTUMwTEx1NWNhKzFrVFZObDgxT0dsNG55VGp6V1hOcEt2YzYyeDExd01ua2twL1Y4cmRGdzdLTmxmVU9ielNZNkR3PT0K",
-      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766397864"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTM2w2NGk0bGdLYzFva21FZGpFR05mbWd4UmY3SUtiSXVlWkFLTGZNZlBOMWR0Y21SYTkvaDRJVEdlZEpXMW13dXNpcnRZbDJpdXNHeFhZZ3ZJVnZWeTVlQlNMcUk4cndjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk1MDY5ODQ3CWZpbGU6QWdvcmFnb18wLjEzLjE4Ml94NjQtc2V0dXAuZXhlClQxOXc2K1pyWnMvc0xQODkxZGtyZ0dsZGdzT09DMERFQUg4cjhNK1lmNEdtbzFnVThnbWlhSTN4dnU2akFDcnB0NzZGb1dlV0RkZFJVOHAybkthdUNBPT0K",
+      "url": "https://api.github.com/repos/southglory/agorago-releases/releases/assets/766538149"
     }
   }
 }
