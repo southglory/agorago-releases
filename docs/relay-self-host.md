@@ -1,7 +1,7 @@
 # Self-hosting an agorago relay
 
 This guide is generated from the README inside the relay bundle of agorago
-v0.13.202. Every release carries its own bundle, `agorago-relay-<version>.tar.gz`,
+v0.13.204. Every release carries its own bundle, `agorago-relay-<version>.tar.gz`,
 on the [releases page](https://github.com/southglory/agorago-releases/releases). It builds and
 runs without the app's source.
 
@@ -10,7 +10,7 @@ runs without the app's source.
 Use the bundle from the same release as your app.
 
 ```bash
-VERSION=v0.13.202
+VERSION=v0.13.204
 curl -fLO https://github.com/southglory/agorago-releases/releases/download/$VERSION/agorago-relay-$VERSION.tar.gz
 curl -fLO https://github.com/southglory/agorago-releases/releases/download/$VERSION/agorago-relay-$VERSION.tar.gz.sha256
 sha256sum -c agorago-relay-$VERSION.tar.gz.sha256
